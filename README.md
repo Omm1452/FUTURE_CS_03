@@ -30,7 +30,7 @@ This project allows secure file sharing using:
 
 ## 🧪 Sample Code (`main.py')
 
-python
+```python
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory, flash
 import os
 
@@ -61,12 +61,12 @@ def download_file(filename):
 
 if __name__ == '__main__':
     app.run(debug=True)
-
+```
 
 
 
 ## 🌐 HTML Template (index.html)
-
+```
 <!doctype html>
 <html lang="en">
 <head>
