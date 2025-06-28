@@ -1,4 +1,4 @@
-![pic](https://github.com/user-attachments/assets/091ee235-cc8b-4348-af69-de6221af4da8)﻿# FUTURE_CS_03
+ #FUTURE_CS_03
  # 🔐 Secure File Sharing System
 
 A Flask-based secure file sharing system for encrypted file upload & download.
